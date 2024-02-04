@@ -1,0 +1,6 @@
+aws_account_id: 630010311280
+domain_name: kellenanker.com
+zone_id: Z1F9ANBUM9Z585
+
+tags:
+  Terraform: true
