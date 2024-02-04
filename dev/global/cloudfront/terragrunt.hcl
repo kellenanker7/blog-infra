@@ -23,7 +23,7 @@ inputs = {
   default_root_object = "index.html"
 
   comment             = "CDN for Kellen Anker's blog"
-  price_class         = "PriceClass_All"
+  price_class         = "PriceClass_100"
   retain_on_delete    = false
   enabled             = true
   is_ipv6_enabled     = true
