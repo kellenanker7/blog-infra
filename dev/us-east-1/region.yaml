@@ -1,4 +1,0 @@
-# This value dictates the aws provider config.
-# For global folders, it can be whatever we choose to be our "primary" region for the account.
-# The resources deployed to this account are not intended to be region-specific.
-aws_region: us-east-1
